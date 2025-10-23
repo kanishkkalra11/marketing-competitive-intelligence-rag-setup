@@ -32,3 +32,9 @@ FastAPI Service (/ingest, /query, /health, /reset)
         ↓
 ngrok Tunnel → external tools (n8n, Lovable, etc.)
 ```
+
+---
+
+## 📦 Installation
+
+#### 1. Clone the repository
